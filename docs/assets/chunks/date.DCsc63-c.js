@@ -1,0 +1,1 @@
+import{s}from"./framework.Dm3xLcfC.js";import{x as m}from"./theme.Dex0qprN.js";const c=o=>{var t,a,r;const{localeIndex:e}=s();return((r=(a=(t=m[e.value])==null?void 0:t.dateFormatter)==null?void 0:a.format)==null?void 0:r.call(a,o))||o};export{c as f};

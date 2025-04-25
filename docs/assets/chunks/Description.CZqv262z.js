@@ -1,0 +1,1 @@
+/* empty css                                                    */import{c as t,b as o,e as r}from"./framework.Dm3xLcfC.js";const s={class:"description-container"},i={__name:"Description",props:{col:{type:Number,default:3}},setup(c){return(e,n)=>(o(),t("div",s,[r(e.$slots,"default")]))}};export{i as _};

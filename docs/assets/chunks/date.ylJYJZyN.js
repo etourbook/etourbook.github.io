@@ -1,1 +1,0 @@
-import{s}from"./framework.Cin4nW6h.js";import{x as m}from"./theme.Cw1MiwGB.js";const c=o=>{var t,a,r;const{localeIndex:e}=s();return((r=(a=(t=m[e.value])==null?void 0:t.dateFormatter)==null?void 0:a.format)==null?void 0:r.call(a,o))||o};export{c as f};
